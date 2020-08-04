@@ -12,4 +12,10 @@ git add .
     #adds all changes to all files
 git commit -m
     #professional and describe functionalilty
+git push 
+    #push to remote repository to a branch aka origin master
+
+#test new commit
+git add .
+
 #This is My Name
